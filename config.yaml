@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (4b6d2cd228fa6b77)
+project:
+  name: target-python-bridge-8q8rx9
+  tag: 4b6d2cd228fa6b77
+  env: production
+cfg_cipherjilqej:
+  enabled: true
+  workers: 3
+cfg_kernel5zvpjp:
+  timeout_sec: 43
+  retry: 3
+cfg_ciphernn581z:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
